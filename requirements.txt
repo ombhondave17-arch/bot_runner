@@ -4,3 +4,4 @@ aiohttp
 httpx
 python-dotenv
 pytz
+setuptools==65.5.0
